@@ -1,0 +1,8 @@
+{
+    "map_name": "The Pizzeria",
+    "map_path": "map_files/Pizzeria",
+    "map_file": "pizzeria.dmm",
+    "shuttles": {
+	    "emergency": "emergency_box"
+    }
+}
